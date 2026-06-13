@@ -1,8 +1,25 @@
-# 👋 Hi, I'm Nazeer P. Abdul Rahiman
+<div align="center">
 
-🎓 **PhD Aspirant | Researcher | Cloud & Security Architect | 18+ Years in Enterprise IT**
+# <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/5f5f2809-3abf-4611-b07b-f0e5fa7d55c2" /> 
+Nazeer Abdul Rahiman
 
-Welcome to my GitHub profile! I am a cybersecurity and cloud-focused professional actively transitioning into academic research, backed by two decades of industry experience. My profile reflects a unique blend of academic inquiry and hands-on implementation in cloud infrastructure, Kubernetes security, AI-based monitoring, and DevOps automation.
+### Solution Architect | CCIE #37404 | PMP® | CKA
+<p align="center">
+  <img src="https://img.shields.io/badge/Networking-0969DA?style=flat-square" />
+  <img src="https://img.shields.io/badge/Automation-1F883D?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cloud-6F42C1?style=flat-square" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square" />
+  <img src="https://img.shields.io/badge/UC%20Collaboration-00A4EF?style=flat-square" />
+  <img src="https://img.shields.io/badge/DevOps-F0883E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Security-C93C37?style=flat-square" />
+  <img src="https://img.shields.io/badge/MLOps-8250DF?style=flat-square" />
+</p>
+</div>
+
+I focus on cloud networking, network automation, UC collaboration, DevOps, security, and MLOps. This profile is a curated index of hands-on labs, automation solutions, sample scripts, and reference implementations across Azure and hybrid environments. Most content is designed to be practical and reproducible, helping engineers deploy, automate, troubleshoot, and learn from real-world infrastructure scenarios.
+
+📫 Connect: <a href="https://www.linkedin.com/in/nazeer-abdul-rahman-78516aa/">LinkedIn</a>
+
 
 ---
 
