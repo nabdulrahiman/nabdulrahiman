@@ -16,7 +16,7 @@ Nazeer Abdul Rahiman
 </p>
 </div>
 
-I focus on cloud networking, network automation, UC collaboration, DevOps, security, and MLOps. This profile is a curated index of hands-on labs, automation solutions, sample scripts, and reference implementations across Azure and hybrid environments. Most content is designed to be practical and reproducible, helping engineers deploy, automate, troubleshoot, and learn from real-world infrastructure scenarios.
+I specialize in cloud networking, network automation, UC collaboration, DevOps, security, and MLOps. This profile serves as a collection of hands-on labs, automation workflows, sample scripts, and reference architectures across Azure and hybrid environments. The content is designed to be practical, reproducible, and focused on real-world scenarios that help engineers build, automate, troubleshoot, and scale modern infrastructure.
 
 📫 Connect: <a href="https://www.linkedin.com/in/nazeer-abdul-rahman-78516aa/">LinkedIn</a>
 
